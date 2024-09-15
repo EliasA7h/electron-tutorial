@@ -1,0 +1,16 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "Electron Tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --platform=win32",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elias",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.1.0",
+    "prettier": "^3.3.3"
+  }
+}
